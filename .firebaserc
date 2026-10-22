@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "galeriareact-3e976"
-  }
+    "default": "galeriareact-3e976",
+    "rategallery": "galeriareact-3e976"
+  },
+  "targets": {},
+  "etags": {}
 }
